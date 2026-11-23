@@ -859,7 +859,7 @@ export const GameCanvas: React.FC<GameCanvasProps> = ({
     <canvas
       ref={canvasRef}
       className="block w-full h-full"
-      aria-label="Bramble forest platformer canvas"
+      aria-label="Màn hình trò chơi Bramble: Hiệp Sĩ Nhím"
     />
   );
 };

@@ -3,8 +3,8 @@ import { LevelDef } from './types';
 export const LEVELS: LevelDef[] = [
   {
     id: 1,
-    name: 'Whispering Woods',
-    subtitle: 'Forest Level · Reach the Woodland Castle',
+    name: 'Rừng Thì Thầm',
+    subtitle: 'Màn Rừng · Tiến về Lâu Đài Gỗ',
     worldWidth: 2700,
     spawnX: 90,
     spawnY: 320,
@@ -66,8 +66,8 @@ export const LEVELS: LevelDef[] = [
   },
   {
     id: 2,
-    name: 'Sunlit Canopy',
-    subtitle: 'High Boughs · Cross the Shifting Moss Ledges',
+    name: 'Tán Cây Nắng Ấm',
+    subtitle: 'Tầng Cao · Vượt qua các bục rêu di chuyển',
     worldWidth: 3150,
     spawnX: 80,
     spawnY: 320,
@@ -157,8 +157,8 @@ export const LEVELS: LevelDef[] = [
   },
   {
     id: 3,
-    name: 'The Royal Gatehouse',
-    subtitle: 'Final Ascent · Storm the Citadel Grounds',
+    name: 'Cổng Thành Hoàng Gia',
+    subtitle: 'Chặng Cuối · Chinh phục Lâu Đài Đá',
     worldWidth: 3450,
     spawnX: 80,
     spawnY: 320,
