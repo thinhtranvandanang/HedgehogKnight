@@ -1,0 +1,6 @@
+{
+  "name": "Bramble: Hedgehog Knight",
+  "description": "A charming 2D forest platformer starring Bramble, a brave hedgehog knight on a quest to reach the woodland castle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
